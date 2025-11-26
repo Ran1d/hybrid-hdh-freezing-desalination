@@ -4,7 +4,7 @@ MSc thesis – Hybrid desalination (HDH + freezing + absorption) – GOR 7.91, S
 ### MSc Thesis – Rand Ahmad Bushnaq – Jordan University of Science and Technology (2026)
 
 **World-class validated performance (2020–2024 literature):**
-- **Gained Output Ratio (GOR) = 7.82**  
+- **Gained Output Ratio (GOR) = 7.91**  
 - **Specific Electricity Consumption = 24.8 kWh/m³**  
 - **Total freshwater production = 8.39 m³/day**  
 - **Validation error < 3 %** against contemporary references (Liu 2023, Elrahman 2020, Beniwal 2023, etc.)
