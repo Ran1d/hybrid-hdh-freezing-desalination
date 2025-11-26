@@ -15,7 +15,14 @@ MSc thesis – Hybrid desalination (HDH + freezing + absorption) – GOR 7.91, S
 - Complete Python/Tkinter GUI with live simulation
 - NSGA-II multi-objective optimisation
 - Monte-Carlo uncertainty analysis
+Figure: 
+- System schematic:
+  https://ibb.co/h19t25yJ
 - GUI: https://ibb.co/DfjGF2kJ
 - Energy Flow Diagram: https://ibb.co/R4Z3cKwT
-- 
+- Validation Plot:
+https://ibb.co/Zb6RnXB
+– optimization_front.png – NSGA-II Pareto front:
+https://ibb.co/4rKmshc
+
 
